@@ -1,6 +1,7 @@
 # -*- coding: cp1251 -*-
 import csv
 import xlwt
+import numpy
 from tkinter import *
 from tkinter import ttk
 from tkinter.filedialog import askopenfilename
